@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/norekluk/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar -classpath /home/norekluk/ OOP/lab1/target/scala-2.13/test-classes:/home/norekluk/ OOP/lab1/target/scala-2.13/classes /home/norekluk/ OOP/lab1/src/test/scala/DateTest.scala

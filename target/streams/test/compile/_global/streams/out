@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/norekluk/ OOP/lab1/project/target/.sbt-compilation-infos/lab1-test/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/norekluk/ OOP/lab1/src/test/scala/DateTest.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.FunSuite[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/norekluk/ OOP/lab1/src/test/scala/DateTest.scala:3:24: not found: type FunSuite[0m
+[0m[[0m[31merror[0m] [0m[0mclass DateTest extends FunSuite {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/norekluk/ OOP/lab1/src/test/scala/DateTest.scala:4:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("new instance") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/norekluk/ OOP/lab1/project/target/.sbt-compilation-infos/lab1-test/.sbt-idea-lock.[0m
